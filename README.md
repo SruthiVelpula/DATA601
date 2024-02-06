@@ -1,2 +1,2 @@
 # DATA601
-The purpose this repository (i.e DATA601) is to undergo different data manipulation task 
+This repository is for the class introduction of Data science, course code DATA 601 by Professor Chalachew Jemberie. I use this repository for uploading my coursework projects during this class and after completion of the course.
